@@ -28,7 +28,7 @@ A simple task management web application built with **Django**, allowing users t
 
 ---
 
-## 🏗 Project Structure
+##  Project Structure
 
 
 todo_main/
